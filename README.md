@@ -6,4 +6,5 @@
 - 📖 Estudiante de Derecho
 - 🎵 Músico y amante de la música
 - 📫 Para contactarme: mariomass@gmail.com 
+- 📋 Mi cv: [cv Mario Massonnat.pdf](https://github.com/MarucoMass/MarucoMass/files/7940972/cv.Mario.Massonnat.pdf)
 
