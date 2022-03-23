@@ -2,10 +2,9 @@
 
 - ✨ Soy Desarrollador Web 
 - 👨‍💻 Estoy estudiando la carrera de Desarrollo Full Stack 
-- 👷‍♂️ Actualmente trabajando en unos de mis repositorios para hacer un Snake Game
+- 👷‍♂️ Actualmente estudiando React.js
 - 📖 Estudiante de Derecho
 - 🎵 Músico y amante de la música
 - 🗨 Hablo español e inglés
 - 📫 Para contactarme: mariomass23@gmail.com 
-- 📋 Mi cv: [cv Mario Massonnat.pdf](https://github.com/MarucoMass/MarucoMass/files/7940972/cv.Mario.Massonnat.pdf)
-
+- 📋 Mi cv: [cv Mario Massonnat.pdf](https://github.com/MarucoMass/MarucoMass/files/8328981/cv.Mario.Massonnat.pdf)
