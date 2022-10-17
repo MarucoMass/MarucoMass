@@ -6,4 +6,4 @@
 - 🎵 Músico y amante de la música.
 - 🗨 Hablo español e inglés.
 - 📫 Para contactarme: mariomass23@gmail.com 
-- 📋 Mi cv: [curriculum - Mario Massonnat.pdf](https://github.com/MarucoMass/MarucoMass/files/9679360/curriculum.-.Mario.Massonnat.pdf)
+- 📋 Mi cv: [curriculum - Mario Massonnat.pdf](https://github.com/MarucoMass/MarucoMass/files/9805207/curriculum.-.Mario.Massonnat.pdf)
