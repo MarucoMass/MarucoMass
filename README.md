@@ -1,6 +1,6 @@
 ### 🕺 Hola y bienvenidos 👋
 
-- ✨ React Front-End Developer 
+- ✨ Web Developer 
 - 🎵 Músico y amante de la música.
 - 🗨 Hablo español e inglés.
 - 📫 Para contactarme: mariomass23@gmail.com 
