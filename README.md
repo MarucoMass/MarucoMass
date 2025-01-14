@@ -1,6 +1,6 @@
 ### 🕺 Hi! Welcome 👋
 
-- ✨ Full Stack Web Developer 
+- ✨ Full Stack Developer 
 - 🎵 Musician.
 - 🗨 Bilingual: I speak Spanish and English.
 - 🏅 My portfolio: https://mariomass-dev.netlify.app/
