@@ -1,7 +1,7 @@
-### 🕺 Hola y bienvenidos 👋
+### 🕺 Hi! Welcome 👋
 
-- ✨ Web Developer 
-- 🎵 Músico y amante de la música.
-- 🗨 Hablo español e inglés.
-- 🏅 Mi porfolio: https://mariomass-dev.netlify.app/
-- 📫 Para contactarme: (https://www.linkedin.com/in/mario-massonnat/)
+- ✨ Full Stack Web Developer 
+- 🎵 Musician.
+- 🗨 Bilingual: I speak Spanish and English.
+- 🏅 My portfolio: https://mariomass-dev.netlify.app/
+- 📫 Contact: (https://www.linkedin.com/in/mario-massonnat/)
