@@ -8,8 +8,6 @@
 ###
 
 <h2 align="left">About me</h2>
-
-
 <p align="left">
   <br> 🎵 Musician.
  <br> 🗨 Bilingual: I speak Spanish and English.
