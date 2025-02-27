@@ -44,11 +44,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo">
 
-<div style="background-color: red; width: 40px; height: 40px;"></div>
-
-
-
-
 
 
 <h3 align="left">Databases:</h3>
