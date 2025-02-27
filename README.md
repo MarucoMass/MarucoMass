@@ -12,8 +12,8 @@
 ###
 
 <p align="left">
- <br> 📖 Advanced programming student at National University of Technology in Rosario, Santa Fe.
- <br> 🎵 Musician.
+ <br> 📖 Advanced programming student at the National Technological University in Rosario, Santa Fe
+ <br> 🎵 Musician
  <br> 🗨 Bilingual: I speak Spanish and English.
  <br> 🏅 My portfolio: https://mariomass-dev.netlify.app/
  <br> 📫 Contact: mariomass.dev@gmail.com
