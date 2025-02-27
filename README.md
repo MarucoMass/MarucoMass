@@ -44,9 +44,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo">
 
-<div style="background-color: white; width: 40px; height: 40px; display: flex; align-items: center; justify-content: center; border: 1px solid black;">
-    🚀
-</div>
+<div style="background-color: white; width: 40px; height: 40px; border: 2px solid black;"></div>
 
 
 
