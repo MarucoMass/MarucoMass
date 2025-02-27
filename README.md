@@ -44,9 +44,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="NestJS logo">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express logo">
 
-<div style="background-color: white; width: 40px; height: 40px;">
-    sdvfsdvsdvs
+<div style="background-color: white; width: 40px; height: 40px; border: 1px solid black;">
+    &#8203; <!-- Caracter invisible para evitar que el div colapse -->
 </div>
+
 
 
 
